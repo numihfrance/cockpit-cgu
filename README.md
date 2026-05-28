@@ -1,6 +1,6 @@
 # CGU – cockpit 360
 
-Les Conditions Générales d'Utilisation de l'application **cockpit 360** sont consultables à l'adresse suivante :
+Les Conditions Générales d'Utilisation de l'application **cockpit 360** 
 
 ---
 
